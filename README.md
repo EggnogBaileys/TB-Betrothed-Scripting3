@@ -4,6 +4,8 @@ A short game made as an exercise for Scripting 3 in Unity, by Malone Mast.
 “Betrothed”
 A turn-based action-adventure game in which you must combat enemy after enemy, choosing one of two upgrades after each battle.
 
+HERE IS A LINK TO THE BUILD BECAUSE IT WAS TOO BIG TO UPLOAD DIRECTLY: https://drive.google.com/file/d/12-BPOLnngcKSPlgYlgZup4sAYMFxhwOj/view?usp=sharing
+
 CONTROLS:
 - A+D keys to move currently equipped item side to side.
 - Left-click to attack.
